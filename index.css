@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    background-color: #1d3557;
+    padding-bottom: 100px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: black solid 1px;
+    border-radius: 5px;
+}
+#guest{
+    flex: right;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+#value1{
+    background-color: black;
+    padding: 25px;
+    text-align: center;
+    font-size: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 20px;
+    color: #F94F6D;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Ozone', sans-serif;
+}
+#value2{
+    background-color: black;
+    padding: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 20px;
+    color: #F94F6D;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Ozone', sans-serif;
+}
+#home{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+#buttonhome{
+    text-align: center;
+    background-color: #1d3557;
+}
+#buttonguest{
+    text-align: center;
+}
+#home1{
+    background-color: #1d3557;
+}
+button{
+    background-color: #1d3557;
+    border: white solid 1px;
+    color: white;
+    border-radius: 3px;
+    padding: 10px;
+}
+h3{
+    font-family: 'Sathu', sans-serif;
+    font-family: 'Robot Teacher', sans-serif;
+    font-family: 'Toms New Roman', sans-serif;
+    text-decoration: solid;
+}
