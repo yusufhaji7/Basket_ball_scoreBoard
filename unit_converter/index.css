@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-color:#3D3D3D;
+    font-family: 'Inter';
+}
+.parent{
+    display: inline-block;
+}
+.childone{
+    background-color: #6943FF;
+    padding: 35px;
+    font-weight: 800;
+    color: white;
+    font-size: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.childtwo{
+    background-color: #F4F4F4;
+    margin-top: -20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+button{
+    background-color: white;
+    border: none;
+    margin-top: 26.77px;
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 117px;
+    height: 42px;
+    color: #3D3D3D;
+    font-size: large;
+}
+input{
+    border: white solid 1px;
+    background-color: #6943FF;
+    width: 70px;
+    height: 60px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.length{
+    background-color: white;
+    width: 500px;
+    height: 108.57px;
+    padding-top: 10px;
+    margin: 15px;
+    border-radius: 5px;
+    color: #5A537B;
+}
